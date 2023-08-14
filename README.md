@@ -7,7 +7,7 @@ Generate vendor patches for packages with single command.
 ## Install
 
 ```bash
-composer require symplify/vendor-patches --dev
+composer require symplify/vendor-patches
 ```
 
 ## Usage
